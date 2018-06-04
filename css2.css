@@ -1,0 +1,11 @@
+
+*{margin:0px;padding:0;}
+a{text-decoration: none;}
+a:hover{text-decoration: underline;}
+
+.header {height:80px;border-bottom:1px solid #efefef;}
+.header-title{font-size: 28px;padding:35px 15px 0px 15px;line-height: 100px;}
+
+.list{display: block;margin: 0;}
+.list-group{padding-left: 0px}
+.li-title { border-bottom: 1px solid #efefef;display: block;padding:15px 15px;}
