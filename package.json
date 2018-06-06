@@ -1,0 +1,19 @@
+{
+  "name": "hsy",
+  "version": "1.0.0",
+  "description": "haoshouyi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ponpeng/hsy.git"
+  },
+  "author": "onpend",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ponpeng/hsy/issues"
+  },
+  "homepage": "https://github.com/ponpeng/hsy#readme"
+}
